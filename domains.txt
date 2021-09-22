@@ -1,0 +1,1 @@
+[('myname', 'a'), ('test', 'a'), ('test', 'group'), ('zw', 'b'), ('zw', 'group'), ('user', 'domain'), ('alice', 'admin'), ('test', 'group'), ('z2e', 'team'), ('lebron', 'mvp'), ('smith', 'mvp'), ('lebron', 'finals'), ('', 'creators')]

@@ -1,0 +1,1 @@
+[('myname', 'mypassword'), ('test', 'abc'), ('test', 'z'), ('zw', 'ws'), ('user', 'password'), ('a', 'alice'), ('test', '30password'), ('tester', '()'), ('smith', 'pass'), ('lebron', 'lebron'), ('bob', 'smithy'), ('b', 'bob'), ('bobby', 'smith')]

@@ -1,0 +1,1 @@
+[('operation', '', ''), ('modify', 'group', 'editors'), ('access', 'domain', 'typename'), ('download', 'Editor', 'Videos'), ('download', 'admin', 'vidoes'), ('download', 'admin', 'videos'), ('play', 'mvp', 'games'), ('write', 'creators', 'forza'), ('write', 'creators', 'forza'), ('write', 'creators', 'forza'), ('write', 'creators', 'forza')]
